@@ -69,10 +69,10 @@ textarea{
   align-items: center;
   justify-content: center;
   font-size: 40px;
-  color: black;
+  color:black;
 }
 
-.saveBtn i:hover {
+.saveBtn svg:hover {
   font-size: 60px;
   transition: all .3s ease-in-out;
 }
