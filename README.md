@@ -56,3 +56,4 @@ We were tasked with creating a work day scheduler that allowed the user to add a
 
 - Table showing rows of hours in given day
 - Colorcoding differentiates past, present, and future
+- Text input saves to local storage for future viewing

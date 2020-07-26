@@ -63,7 +63,7 @@ textarea{
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  color: white;
+  color: rgb(90, 90, 90);
 }
 
 .future {
@@ -71,7 +71,7 @@ textarea{
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  color: white;
+  color: rgb(90, 90, 90);
 }
 
 .saveBtn {
