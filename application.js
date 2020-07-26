@@ -34,6 +34,7 @@ $(document).ready(function() {
     }, 100);
 });
 
+// colorcoded for past, present, and future
 var currentHour = parseInt(moment().format("HH"));
 
 $("textarea").each(function() {
@@ -53,8 +54,13 @@ $("textarea").each(function() {
         $(this).removeClass("past");
         $(this).removeClass("future");
     }
+});
 
-})
+$("button").on("click", function() {
+    localStorage.setItem("12am", (input12am.val()));
+});
+
+$("#textarea12am").append(localStorage.getItem("12am"));
 
 
 })
