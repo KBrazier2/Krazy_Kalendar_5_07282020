@@ -60,6 +60,9 @@ We were tasked with creating a work day scheduler that allowed the user to add a
 
 The following screenshots and animation demonstrates the application functionality:
 
-![localstoragegif](Untitled_Jul_26,_2020_1_10_PM.gif)
+![localstoragegif](2020-07-26.png)
+![localstoragegif](2020-07-26_(1).png)
+![localstoragegif](2020-07-26_(2).png)
+![localstoragegif](Untitled_ Jul_26_2020_1_10_PM.gif)
 
 
