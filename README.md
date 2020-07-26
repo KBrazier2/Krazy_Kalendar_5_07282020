@@ -58,5 +58,10 @@ We were tasked with creating a work day scheduler that allowed the user to add a
 - Colorcoding differentiates past, present, and future
 - Text input saves to local storage for future viewing
 
-Testing Screenshot
+The following screenshots and animation demonstrates the application functionality:
 ![screenshot](2020-07-26.png)
+![screenshot1](2020-07-26 (1).png)
+![screenshot2](2020-07-26 (2).png)
+![localstoragegif](Untitled_ Jul 26, 2020 1_10 PM.gif)
+
+
