@@ -63,6 +63,6 @@ The following screenshots and animation demonstrates the application functionali
 ![localstoragegif](2020-07-26.png)
 ![localstoragegif](2020-07-26_(1).png)
 ![localstoragegif](2020-07-26_(2).png)
-![localstoragegif](Untitled_ Jul_26_2020_1_10_PM.gif)
+![localstoragegif](Untitled_Jul_26_2020_1_10_PM.gif)
 
 
