@@ -55,4 +55,4 @@ Krazy Kalendar
 We were tasked with creating a work day scheduler that allowed the user to add and save tasks and events for each hour of the day.
 
 - Table showing rows of hours in given day
-
+- Colorcoding differentiates past, present, and future

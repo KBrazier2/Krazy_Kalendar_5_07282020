@@ -50,17 +50,27 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-image: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);
+  background-blend-mode: normal, lighten, soft-light;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-image: linear-gradient(-225deg, #20E2D7 0%, #F9FEA5 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   color: white;
 }
 
@@ -75,4 +85,8 @@ textarea{
 .saveBtn svg:hover {
   font-size: 60px;
   transition: all .3s ease-in-out;
+}
+
+.time-frame {
+  font-size: 25px;
 }
